@@ -6,10 +6,17 @@ nav{
     text-align: right;
     border-bottom: 1px solid blue;
 }
-
 .nav-element{
     margin-right: 10px;
-    color: black;
+    color: blue;
+}
+.nav-element{
+    margin-right: 10px;
+    color: blue;
+}
+.nav-element{
+    margin-right: 10px;
+    color: blue;
 }
 h1{
     text-align: center;
