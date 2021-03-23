@@ -1,0 +1,25 @@
+nav{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    padding-left: 20px;
+    text-align: right;
+    border-bottom: 1px solid blue;
+}
+
+.nav-element{
+    margin-right: 10px;
+    color: black;
+}
+h1{
+    text-align: center;
+    color: forestgreen;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    text-align: center;
+}
